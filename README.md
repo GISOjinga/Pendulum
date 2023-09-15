@@ -12,15 +12,15 @@ This project simulates a pendulum in Roblox using Lua/Luau. It defines a `Pendul
   
 ## Getting Started
 
-1. **Download the Script**: Download the `Pendulum.lua` script file into your Roblox Studio environment.
+1. **Download the Script**: Download the `PendulumObject.lua` script file into your Roblox Studio environment.
 
-2. **Run the Script**: Open the script in Roblox Studio and click the run button to execute it.
+2. **Run the Script**: Use the example script to show how to create a pendulum object
 
 3. **Observe the Pendulum**: The pendulum's position will be printed in the console as it swings back and forth.
 
 ## Usage
 
-You can adjust the pendulum properties by changing the initial variables within the `Pendulum` class constructor.
+You can adjust the pendulum properties by changing the initial variables within the `PendulumObject` class constructor.
 
 - `angle`: The initial angle of the pendulum in radians.
 - `length`: The length of the pendulum.

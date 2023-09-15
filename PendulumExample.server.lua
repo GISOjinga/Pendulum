@@ -4,7 +4,7 @@
 ]]
 
 -->> modules
-local pendulum = require(script.Parent.PendulumSimulationObject)
+local pendulum = require(script.Parent.PendulumObject)
 
 
 -->> Create a pendulum object
